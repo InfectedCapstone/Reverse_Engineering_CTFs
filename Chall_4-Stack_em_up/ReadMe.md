@@ -1,8 +1,5 @@
-## Challenge Title: 
-**Stack them up**
+## Stack them up
 
-
-## Challenge Description:
 A : Hi
 
 B : Hi guys
@@ -13,5 +10,5 @@ D : What are you guys doing?
 
 A : We’re stacking ‘em strings.
 
-## Challenge Points: 
+### Challenge Points: 
 200 Points
