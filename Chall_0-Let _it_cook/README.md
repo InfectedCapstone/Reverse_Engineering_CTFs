@@ -1,7 +1,5 @@
-## Challenge title: 
-Let it cook
+## **Let it cook**
 
-## Challenge Description:
  Wait for your Executa-meal to cook... 
 
 ## Challenge Points: 
