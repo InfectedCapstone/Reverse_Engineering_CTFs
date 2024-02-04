@@ -2,7 +2,7 @@
 A list of beginner friendly reverse engineering CTF challenges to start off with reverse engineering tools and techniques
 
 ## NOTE
-All the challenges are Windows PE executables. Whilst they are all harmless, we strongly encourage you to run these executables on a Windows virtual machine/sandboxed environment. 
+All the challenges are **Windows PE executables**. Whilst they are all harmless, we strongly encourage you to run these executables on a Windows virtual machine/sandboxed environment. 
 
 ## TOPICS COVERED IN THESE CONCEPTS
 1. File signatures (Hex Editors) and Strings
