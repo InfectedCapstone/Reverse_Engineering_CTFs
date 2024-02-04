@@ -1,6 +1,5 @@
-# Challenge Title: Peek-a-boo
-
-## Challenge Description:
+## **Peek-a-boo**
 I am hidden in plain sight but visible under a string-ct eye.
 
-## Challenge Points: 100 points
+### Challenge Points: 
+100 points
